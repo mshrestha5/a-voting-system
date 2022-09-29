@@ -1,1 +1,6 @@
-
+Name:  Address:  VoterID:  Voted(P)?:  Voted(VP)?:  Voted(S)?:  Voted(H)?:
+Voter Number One  987 Other St  Voter, ST 12345  272503786  YES  YES  NO  NO
+Voter Number 1  987 Other St  HiThere, TX 77777  290323189  NO  NO  NO  NO
+Voter Number 2  123 Other St  Vote, ST 12345  290323189  YES  YES  YES  YES
+Voter Number 3  345 St  SomewhereElse, ST 54321  290323189  NO  NO  YES  NO
+Voter Number 4  123 Street St  Somewhere, ST 12345  290323189  NO  NO  NO  YES

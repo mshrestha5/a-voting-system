@@ -1,0 +1,10 @@
+Name:  Position:  State:  Votes:
+Stefan Andrei  P  TX  1500
+Test Candidate  S  TX  7
+Test Candidate2  P  TX  10
+Test Candidate3  VP  TX  5
+Test Candidate4  H  TX  16
+Test Candidate5  S  TX  37
+Test Candidate6  H  TX  32
+Test Candidate7  VP  TX  12
+Test Candidate8  P  TX  6
